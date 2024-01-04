@@ -1,0 +1,47 @@
+https://www.interviewbit.com/html-interview-questions
+
+HTML
+=====
+1. DOCTYPE
+2. <meta>
+3. What is semantic HTML
+4. SVG & Canvas
+5. What is the role of the method attribute in HTML forms
+6. HTML layout structure 
+7. datalist
+8. imagemap
+9. Web Storage
+10. Web Workers
+11. manifest file in HTML
+12. GeoLocation api
+13. Web Components
+
+
+
+CSS
+===
+1. display:none vs visibility:hidden
+2. Absolute vs relative position
+3. box-sizing:border-box/content-box
+4. Pseudo calss & pseudo elements
+5. box model
+6. reset vs normalize CSS
+7. CSS preprocessor
+8. adaptive design and responsive design
+9. flexbox
+10. What does Accessibility (a11y) mean
+11. grid vs flexbox
+12. !important
+13. translate()
+14. CSS Sprites
+15. How to fix browser-specific styling issues
+
+Bootstrap
+========
+1. container vs container-fluid
+2. scrollspy
+3. properties of flexbox
+
+Javascript
+==========
+1. 

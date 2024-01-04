@@ -21,3 +21,11 @@ Q2. Can you elaborate on your experience in guiding development teams to adhere 
 Q3. How do you stay current with emerging UI technologies and incorporate them into your work? Could you provide an example of a recent technology or trend you've integrated into a project and how it impacted the user interface positively?
 Q4. In your opinion, what are the primary challenges faced when reviewing code for UI adherence? How do you ensure that code aligns with both design specifications and coding standards, especially in collaborative development environments?
 Q5. Describe a scenario where you faced conflicting project requirements or design choices between the UI team and developers. How did you resolve these conflicts to achieve a cohesive and effective user interface without compromising functionality or design principles?
+
+Q1. Technologies and skills set used in the current project?
+Q2. What frameworks have you worked with?
+Q3. Can you discuss a project where you applied your strong expertise in React JS and Next JS to design and implement a scalable and high-performance frontend architecture? How did you utilize server-side rendering (SSR) for performance optimization, and what were the outcomes?
+Q4. In projects involving complex UI structures, how have you effectively implemented state management using Redux? Can you provide an example where your approach to state management contributed to a more maintainable and efficient codebase?
+Q5. Describe your experience with code versioning and repository management using Bitbucket. How do you ensure code quality, collaboration, and effective version control within a development team? Can you share a scenario where your approach to repository management was particularly beneficial?
+Q6. Discuss your proficiency in UI testing using tools like Postman. Can you provide an example where you successfully integrated frontend components with backend services, ensuring seamless communication and data exchange?
+Q7. In a fast-paced and dynamic environment, how do you manage competing priorities and deliver quality frontend solutions within tight timelines? Share an experience where your ability to work effectively in a dynamic setting was crucial to the success of a project.

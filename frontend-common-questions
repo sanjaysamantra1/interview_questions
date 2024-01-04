@@ -5,3 +5,19 @@ Q2. Explain the version control system and branching strategies you might employ
 Q3. Can you outline the steps involved in setting up an auto-scaling architecture for a web application using AWS services?
 Q4. How would you approach database indexing and what considerations are important when deciding which columns to index?
 Q5. Could you explain the concept of CSS specificity and how it impacts the styling of HTML elements?
+
+Senior Front-End Developer
+===========================
+Q1. Discuss a challenging scenario where balancing design aesthetics with functionality posed a significant hurdle in your previous UI design projects. How did you navigate this challenge, and what strategies did you employ to achieve a harmonious balance between the two?
+Q2. Describe a time when you had to integrate complex UI elements across multiple platforms (web and mobile) while ensuring a consistent user experience. How did you approach this integration, and what considerations were vital in achieving coherence across these diverse interfaces?
+Q3. Explain how you've influenced a development team to adopt or adapt to new UI technologies or methodologies in a project. What strategies did you use to communicate the value and ensure a smooth transition, considering the team's existing practices and skill sets?
+Q4. In your experience, how do you ensure code review processes effectively maintain UI design and coding standards? Can you detail a case where your code review significantly improved the overall UI quality and adherence to design principles?
+Q5. UI best practices continuously evolve. Could you discuss a recent emerging UI technology or trend that you found particularly intriguing or promising? How have you explored or implemented this within your design and development work, and what potential advantages or challenges does it present in the context of your projects?
+
+UI Architect
+============
+Q1. Discuss the intersection of design aesthetics and functional UI implementation. How do you approach balancing these aspects to create an optimal user experience, considering various devices and platforms?
+Q2. Can you elaborate on your experience in guiding development teams to adhere to established UI best practices? Share a specific instance where your guidance significantly improved the final UI outcome of a project.
+Q3. How do you stay current with emerging UI technologies and incorporate them into your work? Could you provide an example of a recent technology or trend you've integrated into a project and how it impacted the user interface positively?
+Q4. In your opinion, what are the primary challenges faced when reviewing code for UI adherence? How do you ensure that code aligns with both design specifications and coding standards, especially in collaborative development environments?
+Q5. Describe a scenario where you faced conflicting project requirements or design choices between the UI team and developers. How did you resolve these conflicts to achieve a cohesive and effective user interface without compromising functionality or design principles?

@@ -1,0 +1,31 @@
+Core Java
+=========
+1. equals() vs ==
+2. Method Overriding with an example
+3. final keyword
+4. super()
+5. shallow vs deep copy
+6. singleton class
+7. abstract class vs interface
+8. throw vs throws
+9. composition vs aggregation
+10. marker interface
+11. Comparable & Comparator
+12. HashMap internal implementation
+13. List vs Set
+14. fail-fast & fail-safe iterators
+15. HashMap vs HashTable
+
+Spring
+======
+1. Dependency Injection
+2. setter & constructor Injection
+3. Bean Scopes
+4. Autowiring
+5. what @SpringbootApplication internally does
+6. Spring AOP Proxy Pattern
+7. Hibernate validator framework
+8. HibernateTemplate class
+9. @Repository annotation
+10. Interceptors
+11. Localization & internationalization i18n

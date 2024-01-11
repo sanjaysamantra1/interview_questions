@@ -29,3 +29,12 @@ Spring
 9. @Repository annotation
 10. Interceptors
 11. Localization & internationalization i18n
+
+
+Microservices
+=============
+1. What are the main advantages of using microservices?
+2. main components of Microservices
+3. What are the key challenges in migrating from a monolithic architecture to microservices
+4. role of Docker in microservices deployment
+5. characteristics of a well-designed microservices architecture

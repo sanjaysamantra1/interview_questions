@@ -71,8 +71,68 @@ Javascript
 7. call,bind,apply
 8. prototype
 9. memoization
-10. 
+10. Symbol Datatype
+11. Event Loop
+12. use strict
+13. function currying
+14. Higher Order Function
+15. Recursion
+16. array flat()
+17. Object.create()
+18. shallow vs deep copy
+19. Rest Parameter
+20. spread operator
+21. object vs Map
+22. generator functions
 
+
+Angular
+=======
+1. Property vs interpolation Binding
+2. View Encapsulation - emulated,none,shadowdom
+3. *ngif vs [hidden]
+4. ngFor trackBy
+5. <ng-template>
+6. <ng-content> content projection
+7. @HostBinding @HostListener
+8. pipes , custom pipe
+9. pure vs impure pipe
+10. Lifecycle - ngOnchanges
+11. ngDoCheck
+12. Change Detection Strategies
+13. @ViewChild
+14. Dependency Inkection
+15. interceptors
+16. RxJS - Forkjoin
+17. mergemap() vs switchmap() vs concatmap()
+18. subject , behaviourSubject, replaySubject
+19. Model Driven Form
+20. Route Guard
+21. Route Resolvers
+22. lazy & pre loading
+23. Update a project from 1 version to another angular version
+24. NgRX - state management
+25. CORS
+
+
+
+React
+=====
+1. JSX
+2. Virtual DOM
+3. props, prop validation
+4. props drilling
+5. useEffect
+6. custom Hook
+7. controlled vs uncontrolled form
+8. React.memo()
+9. useMem0
+10. useCallback
+11. PureComponent
+12. HigherOrderComponents
+13. Synthetic Event
+14. Portals
+15. Error Boundary
 
 
 

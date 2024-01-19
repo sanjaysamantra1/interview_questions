@@ -35,13 +35,45 @@ CSS
 13. translate()
 14. CSS Sprites
 15. How to fix browser-specific styling issues
+16. How to center align a div inside another div
+17. calc()
+18. What is CSS Specificity - If there are two or more CSS rules that point to the same element, the selector with the highest specificity value will "win"
+19. Image Sprite
+20. CSS Media Queries
+21. link to different stylesheets for different media and different widths of the browser window 
+    <link rel="stylesheet" media="print" href="print.css">
+    <link rel="stylesheet" media="screen" href="screen.css">
+    <link rel="stylesheet" media="screen and (min-width: 480px)" href="example1.css">
+    <link rel="stylesheet" media="screen and (min-width: 701px) and (max-width: 900px)" href="example2.css">
+
 
 Bootstrap
 ========
 1. container vs container-fluid
 2. scrollspy
+ It's an auto-updating nav component that allows you to grab sections of the page based on where you're scrolling. Based on the scroll position, the .active class will update from one nav item to the next.
 3. properties of flexbox
+4. What are the important rules that you should follow while using Grids in Bootstrap?
+    A row's immediate child must be a Column.
+    Rows are just used to contain Columns and are not utilized for anything else.
+    Rows should be put within a container.
+5. why bootstrap?
+
 
 Javascript
 ==========
-1. 
+1. undefined vs null
+2. == vs ===
+3. Hoisting
+4. var,let,const
+5. arrow function
+6. closure
+7. call,bind,apply
+8. prototype
+9. memoization
+10. 
+
+
+
+
+

@@ -126,13 +126,15 @@ React
 6. custom Hook
 7. controlled vs uncontrolled form
 8. React.memo()
-9. useMem0
+9. useMemo
 10. useCallback
 11. PureComponent
 12. HigherOrderComponents
 13. Synthetic Event
 14. Portals
 15. Error Boundary
+16. Server Side Rendering
+ ReactDOMServer.renderToString(<App />);
 
 
 

@@ -45,7 +45,6 @@ Q7. In a fast-paced and dynamic environment, how do you manage competing priorit
 
 Important Questions
 ===================
-https://anywhere.epam.com/en/blog/senior-front-end-developer-interview-questions
 1. How can you decide to use Angular, React, or Vue based on the project size?
 2. What are the main differences between SPA and SSR
 3. Explain the sense of using several .env files. What types of environments do you know.
@@ -56,7 +55,11 @@ https://anywhere.epam.com/en/blog/senior-front-end-developer-interview-questions
    minifying assets, using CDNs, optimizing images, lazy-loading content, implementing caching, bundling and code-splitting, and leveraging browser caching.
 8. What is the importance of progressive web apps (PWAs) in frontend development?
 9. How do you handle frontend security concerns, such as XSS and CSRF attacks?
-10. 
+10. What are some common performance bottlenecks in frontend applications, and how do you address them?
+    unoptimized images, render-blocking resources, excessive DOM manipulations, and inefficient JavaScript execution.
+
+https://anywhere.epam.com/en/blog/senior-front-end-developer-interview-questions
+https://www.linkedin.com/pulse/100-interview-questions-senior-frontend-engineer-osama-soliman-
 
 
 

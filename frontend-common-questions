@@ -41,3 +41,23 @@ Q4. In projects involving complex UI structures, how have you effectively implem
 Q5. Describe your experience with code versioning and repository management using Bitbucket. How do you ensure code quality, collaboration, and effective version control within a development team? Can you share a scenario where your approach to repository management was particularly beneficial?
 Q6. Discuss your proficiency in UI testing using tools like Postman. Can you provide an example where you successfully integrated frontend components with backend services, ensuring seamless communication and data exchange?
 Q7. In a fast-paced and dynamic environment, how do you manage competing priorities and deliver quality frontend solutions within tight timelines? Share an experience where your ability to work effectively in a dynamic setting was crucial to the success of a project.
+
+
+Important Questions
+===================
+https://anywhere.epam.com/en/blog/senior-front-end-developer-interview-questions
+1. How can you decide to use Angular, React, or Vue based on the project size?
+2. What are the main differences between SPA and SSR
+3. Explain the sense of using several .env files. What types of environments do you know.
+4. Can you describe your experience with debugging tools and techniques for front end development?
+5. How do you ensure cross-browser compatibility for your front end applications?
+6. Can you describe the process for developing a user interface from scratch?
+7. How would you optimize a website's performance?
+   minifying assets, using CDNs, optimizing images, lazy-loading content, implementing caching, bundling and code-splitting, and leveraging browser caching.
+8. What is the importance of progressive web apps (PWAs) in frontend development?
+9. How do you handle frontend security concerns, such as XSS and CSRF attacks?
+10. 
+
+
+
+

@@ -90,6 +90,23 @@ Javascript
 23. Event Delegation
 
 
+Typescript
+===========
+1. pros and cons of typescript
+2. Symbol()
+3. abstract classes
+4. What is an interface?
+5. ways to control member visibility in TypeScript
+6. Enums
+7. Optional Parameter
+8. noImplicitAny is a compiler option that you set in the tsconfig.json file
+9. union types
+   let value: string | number = "Foo";
+10. tuples
+
+
+
+
 Angular
 =======
 1. Property vs interpolation Binding

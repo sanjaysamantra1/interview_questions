@@ -1,9 +1,17 @@
-1. If Node.js is single-threaded, how does it handle concurrency.
-2. advantages of using promises instead of callbacks.
-3. Module Systems
-4. What does event-driven programming mean?
-5. process.nextTick() and setImmediate()
-6. EventEmitter
-7. 
+1. Browser Vs NOdeJS
+2. If Node.js is single-threaded, how does it handle concurrency.
+3. advantages of using promises instead of callbacks.
+4. Module Systems
+5. What does event-driven programming mean?
+6. process.nextTick() and setImmediate()
+7. What is an EventEmitter 
+8. package.json vs package-lock.json
+9. ChildProcess Module
+  spawn() vs fork()
+10. piping in Node.js
+   retrieve data from one stream and pass output to another stream
+11. middleware in Node.js
+12. Libuv
+
 
 What is a webhook

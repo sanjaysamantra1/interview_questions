@@ -15,3 +15,12 @@
 
 
 What is a webhook
+
+MongoDB
+=======
+1. Sharding in MongoDB
+2. can we have index on array field(ensureIndex())
+3. ACID
+4. How to perform join in mongodb ($lookup)
+5. covered query
+6. index cardinality

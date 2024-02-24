@@ -1,4 +1,4 @@
-1. Browser Vs NOdeJS
+1. Browser Vs NodeJS
 2. If Node.js is single-threaded, how does it handle concurrency.
 3. advantages of using promises instead of callbacks.
 4. Module Systems
@@ -12,10 +12,19 @@
    retrieve data from one stream and pass output to another stream
 11. middleware in Node.js
 12. Libuv
+13. Streams 
+14. WebSocket communication 
 
 
 What is a webhook
 How to obtain the IP address of the user in Node.js
+
+ExpressJS
+=========
+1. middleware concept in Express.js
+2. body-parser
+3. 
+
 
 MongoDB
 =======

@@ -1,0 +1,20 @@
+Strengths: 
+ - The Candidate was able to introduce himself and explain his work experience, demonstrating a background in software development.
+- He showed knowledge of the technologies used in his current project, including Node.js, React.js, and Angular.
+- The Candidate correctly identified event-driven architecture as a trait of Node.js and was able to give a general description of how it works.
+- He understood the basics of performance optimization, mentioning code optimization and the removal of unnecessary dependencies.
+- He showed some understanding of MongoDB, including how to perform joins using the aggregate function and the difference between the find and findOne methods. 
+
+ Weaknesses: 
+ -The Candidate struggled with clarity and precision in his technical explanations, often resorting to general terms and lacking depth in his responses.
+- He showed a lack of confidence and hesitation in answering questions about view encapsulation, pure and impure pipes, and interceptors in Angular.
+- The Candidate had limited knowledge of Node.js's module system and was unable to differentiate between CommonJS and ES modules.
+- There was a misunderstanding of asynchronous programming in JavaScript and the use of async-await or Promises.
+- He displayed a fundamental misunderstanding of the difference between the browser and Node.js environments.
+- His answer to writing a MongoDB query to find employees with today's date of birth showed a gap in database query skills. 
+
+ Conclusion: 
+-There was some confusion during the interview when The Candidate was not sure about certain concepts, such as the interceptor,viewEncapsulations, etc in Angular.
+-lacked depth and were limited to theoretical knowledge rather than practical application.
+-The candidate could not even solve a simple problem to sort employees' arrays in JavaScript.
+-Overall the performance is poor.

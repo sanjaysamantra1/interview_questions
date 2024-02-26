@@ -157,6 +157,7 @@ React
 16. Server Side Rendering
  ReactDOMServer.renderToString(<App />);
 17. Interceptors
+18. GraphQL
 
 
 

@@ -4,6 +4,7 @@ HTML
 =====
 1. DOCTYPE
 2. <meta>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 3. What is semantic HTML
 4. SVG & Canvas
 5. What is the role of the method attribute in HTML forms
@@ -26,18 +27,21 @@ CSS
 4. Pseudo calss & pseudo elements
 5. box model
 6. reset vs normalize CSS
-7. CSS preprocessor
+   reset - remove browser-specific styling , normalize - make the default styles consistent across browsers
+7. CSS preprocessor (variables, nesting, functions, and mixins , importing)
 8. adaptive design and responsive design
 9. flexbox
-10. What does Accessibility (a11y) mean
+10. What does Accessibility (a11y) mean (Keyboard Accessibility,Text Alternatives,Semantic HTML,Accessible Forms)
 11. grid vs flexbox
 12. !important
 13. translate()
 14. CSS Sprites
 15. How to fix browser-specific styling issues
+   Browser-Specific CSS(--webkit) , Normalize or Reset CSS , Browser DevTools , Polyfills , Conditionalyl Comment a css
 16. How to center align a div inside another div
 17. calc()
-18. What is CSS Specificity - If there are two or more CSS rules that point to the same element, the selector with the highest specificity value will "win"
+18. What is CSS Specificity - 
+   If there are two or more CSS rules that point to the same element, the selector with the highest specificity value will "win"
 19. Image Sprite
 20. CSS Media Queries
 21. link to different stylesheets for different media and different widths of the browser window 
@@ -46,7 +50,7 @@ CSS
     <link rel="stylesheet" media="screen and (min-width: 480px)" href="example1.css">
     <link rel="stylesheet" media="screen and (min-width: 701px) and (max-width: 900px)" href="example2.css">
 22. How do you organize your CSS code for maintainability and scalability?
-    like BEM, OOCSS, or SMACSS , css pre processors
+    like BEM - Block Element Modifier, OOCSS, or SMACSS , css pre processors
 
 
 

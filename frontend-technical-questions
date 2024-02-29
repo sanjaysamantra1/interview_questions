@@ -108,6 +108,7 @@ Typescript
    let value: string | number = "Foo";
 10. tuples
 11. Javascript vs Typescript
+12. Type vs Interface
 
 
 

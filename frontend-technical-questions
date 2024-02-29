@@ -162,6 +162,8 @@ React
  ReactDOMServer.renderToString(<App />);
 17. Interceptors
 18. GraphQL
+19. Profiler
+20. Context API
 
 
 

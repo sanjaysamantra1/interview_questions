@@ -19,6 +19,10 @@
 17. How to obtain the IP address of the user in Node.js (request.socket.remoteAddress)
 18. redis
 19. CORS
+20. What is clustering in Node.js, and how can it be used to improve application performance
+21. GRAPHQL
+22. Provide some example of config file separation for dev and prod environments
+https://intellipaat.com/blog/interview-question/node-js-interview-questions/#Advanced_Node_JS_Interview_Questions_6_to_10_Years_Experience
 
 
 ExpressJS

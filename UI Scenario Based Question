@@ -1,1 +1,27 @@
-1. Write a program to implement lazy loading for images on a page, ensuring that images outside the viewport are loaded only when they become visible. import React, { useRef, useEffect, useState } from 'react'; const LazyImage = ({ src, alt }) => { const imgRef = useRef(); const [loaded, setLoaded] = useState(false); useEffect(() => { const observer = new IntersectionObserver(([entry]) => { if (entry.isIntersecting) { setLoaded(true); observer.disconnect(); } }); observer.observe(imgRef.current); return () => observer.disconnect(); }, []); return <img ref={imgRef} src={loaded ? src : ''} alt={alt} />; };
+1. Write a program to implement lazy loading for images on a page, ensuring that images outside the viewport are loaded only when they become visible. 
+  import React, { useRef, useEffect, useState } from 'react'; 
+ const LazyImage = ({ src, alt }) => {
+ const imgRef = useRef(); 
+ const [loaded, setLoaded] = useState(false); 
+ useEffect(() => { 
+ const observer = new IntersectionObserver(([entry]) => 
+ { 
+ if (entry.isIntersecting)
+  { 
+  setLoaded(true); observer.disconnect(); 
+  } }); 
+  observer.observe(imgRef.current); 
+  return () => observer.disconnect(); }, []); 
+  return <img ref={imgRef} src={loaded ? src : ''} alt={alt} />; };
+
+Q2. Git Collaboration in a Team: Scenario: You're part of a development team using Git for version control. 
+  Describe your approach to resolving merge conflicts and ensuring a smooth collaboration process, emphasizing best practices for code integration.
+Q3. Node.js application debugging: Scenario: A production The Node.js application is facing performance issues. 
+   Discuss your debugging strategies, tools you would use, and steps to identify and resolve bottlenecks in the application.
+Q4. Typescript Implementation: Scenario: The team is transitioning from JavaScript to TypeScript for a project. 
+   Explain how you would introduce TypeScript, address any challenges in the migration process, and ensure seamless integration within the Node.js 
+   environment.
+Q5. Serverless Architecture with AWS Lambda: Scenario: The organization is exploring serverless architecture. 
+   Elaborate on how you would design and implement a serverless solution using AWS Lambda for a specific use case, outlining the benefits and considerations involved.
+Q6. Coding Question: Given a simple Node.js/Typescript function, create a code snippet that demonstrates asynchronous operations, 
+ such as reading from a file or making an API request. Emphasize error handling and readability in your code.  

@@ -18,6 +18,7 @@
 16. What is a webhook
 17. How to obtain the IP address of the user in Node.js (request.socket.remoteAddress)
 18. redis
+19. CORS
 
 
 ExpressJS

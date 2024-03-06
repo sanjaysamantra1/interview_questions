@@ -6,7 +6,13 @@ Strengths:
 - He showed some understanding of MongoDB, including how to perform joins using the aggregate function and the difference between the find and findOne methods. 
 
  Weaknesses: 
- -The Candidate struggled with clarity and precision in his technical explanations, often resorting to general terms and lacking depth in his responses.
+- Hesitation and lack of confidence were evident in responses
+- Difficulty in providing concrete examples when asked about technical concepts
+- Sometimes unclear or incomplete answers, which might suggest a lack of depth in understanding
+- Exhibited nervousness or difficulty in comprehending and articulating answers for more complex technical queries (e.g., event loop, middleware, deep copy in JS)
+- Struggled to provide SQL query and coding examples on the spot
+- Lack of preparation was visible in the inability to answer questions .
+-The Candidate struggled with clarity and precision in his technical explanations, often resorting to general terms and lacking depth in his responses.
 - He showed a lack of confidence and hesitation in answering questions about view encapsulation, pure and impure pipes, and interceptors in Angular.
 - The Candidate had limited knowledge of Node.js's module system and was unable to differentiate between CommonJS and ES modules.
 - There was a misunderstanding of asynchronous programming in JavaScript and the use of async-await or Promises.

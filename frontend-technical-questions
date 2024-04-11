@@ -148,6 +148,7 @@ React
 1. JSX
 2. Virtual DOM
 3. props, prop validation
+   props.children 
 4. props drilling
 5. useEffect
 6. custom Hook

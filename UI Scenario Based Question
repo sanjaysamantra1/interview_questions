@@ -4,12 +4,8 @@ File concatenation, file compression, CDN Hosting, offloading assets, re-organiz
 3. What are the three ways to reduce page load time?
 Reduce image sizes, remove unnecessary widgets, and HTTP compression, put CSS at the top and script references at the bottom 
 or in external files, reduce lookups, minimize redirects, caching, etc.
-
-
-
-
-
-
+4. How would you implement internationalization (i18n)  (Multilingual webpage)
+5.
 
 
 

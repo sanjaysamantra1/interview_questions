@@ -5,8 +5,12 @@ File concatenation, file compression, CDN Hosting, offloading assets, re-organiz
 Reduce image sizes, remove unnecessary widgets, and HTTP compression, put CSS at the top and script references at the bottom 
 or in external files, reduce lookups, minimize redirects, caching, etc.
 4. How would you implement internationalization (i18n)  (Multilingual webpage)
-5.
 
+Q1. Explain authentication and authorisation process using JWT token and Oauth 2.0
+Q2. How can handle scalability if sudden trafic got increased in web application
+Q3. Implementation REST api using express js and implementation Authorization
+Q4. What are the key things that need to keep in mind while implementing microservices in the terms of scalability, security, communication, monitoring etc
+Q5. If we have a product table where we store different categories of product. What query i need to write to get category wise average price
 
 
 

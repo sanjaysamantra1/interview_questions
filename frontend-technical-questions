@@ -128,7 +128,7 @@ Angular
 11. ngDoCheck
 12. Change Detection Strategies
 13. @ViewChild
-14. Dependency Inkection
+14. Dependency Injection ,when to use inject()
 15. interceptors
 16. RxJS - Forkjoin
 17. mergemap() vs switchmap() vs concatmap()

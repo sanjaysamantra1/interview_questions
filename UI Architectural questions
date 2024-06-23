@@ -1,0 +1,105 @@
+Q1. How would you ensure that websites are accessible to all groups including users with disabilities.
+-Add alt text to images
+-Use headings properly
+-Use ARIA landmarks (Accessible Rich Internet Applications )
+-Add labels to form fields
+-color contrast
+
+Q2. Describe your process for creating a responsive design that works across multiple devices
+-using semantic HTML tags
+-use ARIA attributes
+-alternative text for images
+-test code with various browsers and devices
+-Breakpoints. Each web page should have a minimum of three breakpoints (mobile, tablet, and desktop)
+-Mobile-First Design Approach
+
+
+Q3. Describe the life cycle of any task in front end development
+Ans: Requirement gathering - understanding the features and functionalities
+     Sketch the layout
+     Design the visual elements : design the visual elements of the UI, such as colors, typography, and icons
+     Develop the UI
+     Test the UI
+     Iterate and improve
+     Launch the UI
+
+Q4. Why several .env files?
+Ans: By using multiple .env files, developers can define environment-specific variables, making it easier and more practical 
+   to manage and maintain the application across different environments. 
+   For example, a development environment might use a different database or API key than the production environment.
+   a. development b. testing 3. production
+
+Q5. Do we have to use SCSS/SASS for every project?
+Ans: No, you do not have to use SCSS/SASS for every project, and regular CSS is often enough.
+    SCSS/SASS is a preprocessor for CSS that allows you to write CSS with variables, nested selectors, functions, and more. 
+    It can help you write more organized and maintainable CSS, but it is optional for some projects.
+
+Q6. Debugging tools and techniques for front end development?
+Ans: Browser developer tools
+     Console logging
+     Code Breakpoints
+     Testing - Unit Testing, Integration testing, E2E
+     Code reviews
+
+Q7. How do you ensure cross-browser compatibility for your front end applications?
+Ans: -Use a CSS reset or normalize stylesheet to ensure consistent default styling across different browsers.
+-Use modern web development practices such as responsive design, CSS flexbox, and grid layout, which work well across different browsers.
+-Test your application on different browsers and platforms using tools such as BrowserStack or Sauce Labs.
+-Use feature detection instead of browser detection to determine which features are available on a particular browser, and provide fallbacks for unsupported features.
+-Use polyfills or shims to provide support for missing features or APIs on older browsers.
+-Minimize the use of browser-specific features and APIs, and use standardized APIs whenever possible.
+-Regularly update and maintain your application to ensure compatibility with the latest browser versions.
+-Use cross-browser compatibility libraries, such as Modernizr,
+
+Q8. Mention ways to decrease page load time?
+-Minify CSS, JavaScript, and HTML
+-Image optimization
+-Browser cache
+-Compress and optimize content  (Gzip)
+-Remove render-blocking JavaScript (async,defer)
+-use CDN
+
+Q9. Describe your approach to writing clean, maintainable code.
+-readability , maintainability , Security
+-organize code into logical chunks(Write Modular and Reusable Code)
+-DRY (Don't Repeat Yourself) Principle and Avoid Duplicating Code or Logic.
+-Keep Functions and Classes Small and Focused
+-comment on each section
+-consistent naming conventions
+-formatting guidelines 
+
+Q10. What strategies do you use to debug and troubleshoot errors in your code?
+-Isolate the issue by examining the source of the error and determining what caused it
+-use logging or other tools to capture detailed information about the state of the application
+-code analysis tools
+
+Q11. What to look for in a code review?
+-Verify feature requirements
+-Assess readability
+-Test maintainability
+-Check for security vulnerabilities
+-Comment
+-naming conventions
+-Documentation
+-Code Duplication?
+-Possible Performance Improvements
+-Unit Tests?
+
+Q12. Popular Types of Security Attacks
+-Cross-Site Scripting (XSS) attacks: XSS attacks occur when malicious code is injected into a web application and executed within a user’s browser. This can lead to the theft of sensitive data and other malicious activities.
+-Cross-Site Request Forgery (CSRF) attacks: CSRF attacks involve tricking users into performing actions they didn’t intend to take. Attackers exploit the trust that a website has in a user’s browser to execute unauthorized actions.
+-Injection attacks: Injection attacks, such as SQL injection, involve inserting malicious code into input fields, which can then be executed on the server side, potentially compromising sensitive information.
+-Security risks in external scripts: Third-party libraries and external resources in your web application can introduce security vulnerabilities if not properly vetted.
+-Broken access control: Broken access control occurs when users can access unauthorized areas or perform actions they shouldn’t. It’s a critical security flaw that threatens data confidentiality and application integrity.
+
+Q13. Front-end security best practices
+-Input validation and sanitization
+-Avoid inline scripts
+-Static Code Analysis Tools - ESLint
+-Audit your NPM Packages (npm audit)
+-Bundle and Minify Code
+-Secure Communication (HTTPS) - encrypt data transmitted between the client and server
+-Enable CORS
+-Authentication and Authorization - JWT
+-
+-

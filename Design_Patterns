@@ -3,8 +3,8 @@ https://www.geeksforgeeks.org/javascript-design-patterns/
 
 Q1. SOLID
 SOLID stands for:
-S - Single-responsibility Principle
-O - Open-closed Principle
-L - Liskov Substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principle
+S - Single-responsibility Principle (A class should have only one job)
+O - Open-closed Principle  (open for extension but closed for modification)
+L - Liskov Substitution Principle  (every subclass or derived class should be substitutable for their base or parent class)
+I - Interface Segregation Principle (A client should never be forced to implement an interface that it doesn’t use)
+D - Dependency Inversion Principle  (Entities must depend on abstractions, not on concretions)

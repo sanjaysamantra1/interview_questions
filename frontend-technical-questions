@@ -69,30 +69,32 @@ Bootstrap
 
 Javascript
 ==========
-1. undefined vs null
-2. == vs ===
-3. Hoisting
-4. var,let,const
-5. arrow function
-6. closure
-7. call,bind,apply
-8. prototype
-9. memoization
-10. Symbol Datatype
-11. Event Loop
-12. use strict
-13. function currying
-14. Higher Order Function
-15. Recursion
-16. array flat()
-17. Object.create()
-18. shallow vs deep copy
-19. Rest Parameter
-20. spread operator
-21. object vs Map
-22. generator functions
-23. Event Delegation
-24. Proxy Object
+1. async and defer
+2. use strict
+3. undefined vs null
+4. == vs ===
+5. Hoisting
+6. var,let,const
+7. arrow function
+8. closure
+9. call,bind,apply
+9. prototype
+10. memoization
+11. Symbol Datatype
+12. Event Loop
+13. Object.freeze() and seal()
+14. function currying
+15. Higher Order Function
+16. Recursion
+17. array flat()
+18. Object.create()
+19. shallow vs deep copy
+20. Rest Parameter
+21. spread operator
+22. object vs Map
+23. generator functions
+24. Event Delegation
+25. Proxy Object
 
 
 Typescript

@@ -149,7 +149,7 @@ Angular
 React
 =====
 1. JSX
-2. Virtual DOM
+2. Virtual DOM , Reconciliation, React Fibre
 3. props, prop validation
    props.children 
 4. props drilling
@@ -170,6 +170,7 @@ React
 18. GraphQL
 19. Profiler
 20. Context API
+
 
 
 

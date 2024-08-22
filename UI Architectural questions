@@ -5,7 +5,7 @@ Q1. How would you ensure that websites are accessible to all groups including us
 -Add labels to form fields
 -color contrast
 
-Q2. Describe your process for creating a responsive design that works across multiple devices
+Q2. Describe the process for creating a responsive design that works across multiple devices
 -using semantic HTML tags
 -use ARIA attributes
 -alternative text for images

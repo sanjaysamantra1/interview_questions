@@ -140,9 +140,8 @@ Angular
 20. Route Guard
 21. Route Resolvers
 22. lazy & pre loading
-23. Update a project from 1 version to another angular version
-24. NgRX - state management
-25. CORS
+23. NgRX - state management
+25. Localization - app for different locales
 
 
 

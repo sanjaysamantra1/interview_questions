@@ -24,6 +24,8 @@
 22. Provide some example of config file separation for dev and prod environments
 23. Security concerns & best practices
 23. Swagger
+24. Memory Leaks: How would you detect and debug a memory leak in a Node.js application?
+25. Concurrency & Scaling : load balancing, and how would you implement it in a Node.js app
 https://intellipaat.com/blog/interview-question/node-js-interview-questions/#Advanced_Node_JS_Interview_Questions_6_to_10_Years_Experience
 
 
@@ -33,6 +35,7 @@ ExpressJS
 2. How do you handle form-data & file-upload in expressJS
 2. body-parser
 3. folder structure
+4. authentication & authorization
 
 
 MongoDB
@@ -48,7 +51,11 @@ MongoDB
 9. difference between findOne() and find()
 10. How do you perform a case-insensitive search in MongoDB
 11. indexing in MongoDB, and why is it important
-12. Aggregation framework
+12. aggregation pipelines vs. map-reduce in MongoDB
+13. What are the limitations of MongoDB transactions compared to traditional RDBMS transactions
+14. How would you troubleshoot slow write operations in MongoDB
+15. How do you handle data validation and sanitization when interacting with MongoDB
+16. 
 
 
 NestJS

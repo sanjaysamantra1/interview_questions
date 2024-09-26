@@ -1,16 +1,17 @@
 1. Browser Vs NodeJS
 2. If Node.js is single-threaded, how does it handle concurrency.
-3. advantages of using promises instead of callbacks.
+3. Event Loop and Asynchronous Programming
 4. Module Systems
-5. What does event-driven programming mean?
+5. synchronous and asynchronous error handling
 6. process.nextTick() and setImmediate()
 7. What is an EventEmitter 
 8. package.json vs package-lock.json
 9. ChildProcess Module
   spawn() vs fork()
+  Cluster Module
 10. piping in Node.js
    retrieve data from one stream and pass output to another stream
-11. middleware in Node.js
+11. middleware in Node.js, custom authentication middleware
 12. Libuv
 13. Streams 
 14. WebSocket communication 
@@ -26,6 +27,8 @@
 23. Swagger
 24. Memory Leaks: How would you detect and debug a memory leak in a Node.js application?
 25. Concurrency & Scaling : load balancing, and how would you implement it in a Node.js app
+26. What are some strategies to optimize the performance of a Node.js application
+27. How can you implement API rate limiting in a Node.js application
 https://intellipaat.com/blog/interview-question/node-js-interview-questions/#Advanced_Node_JS_Interview_Questions_6_to_10_Years_Experience
 
 

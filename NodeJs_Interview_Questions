@@ -23,7 +23,7 @@
 20. What is clustering in Node.js, and how can it be used to improve application performance
 21. GRAPHQL
 22. Provide some example of config file separation for dev and prod environments
-23. Security concerns & best practices
+23. What are some common security vulnerabilities in Node.js applications, and how can you mitigate them
 23. Swagger
 24. Memory Leaks: How would you detect and debug a memory leak in a Node.js application?
 25. Concurrency & Scaling : load balancing, and how would you implement it in a Node.js app

@@ -5,7 +5,7 @@ HTML
 1. DOCTYPE
 2. <meta>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-3. What is semantic HTML
+3. Importance of semantic HTML
 4. SVG & Canvas
 5. What is the role of the method attribute in HTML forms
 6. HTML layout structure 
@@ -16,6 +16,7 @@ HTML
 11. manifest file in HTML
 12. GeoLocation api
 13. Web Components
+14. Ensure a website is accessible
 
 
 

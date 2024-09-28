@@ -6,8 +6,8 @@ HTML
 2. <meta>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 3. Importance of semantic HTML
-4. SVG & Canvas
-5. What is the role of the method attribute in HTML forms
+4. data attributes in HTML5
+5. <form method=GET/POST>
 6. HTML layout structure 
 7. datalist
 8. imagemap
@@ -17,6 +17,8 @@ HTML
 12. GeoLocation api
 13. Web Components
 14. Ensure a website is accessible
+15. SVG & Canvas
+16. ARIA (Accessible Rich Internet Applications) attributes
 
 
 

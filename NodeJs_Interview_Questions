@@ -11,7 +11,9 @@
   Cluster Module
 10. piping in Node.js
    retrieve data from one stream and pass output to another stream
-11. middleware in Node.js, custom authentication middleware
+11. middleware in Node.js, 
+    custom authentication middleware
+    error handling middleware
 12. Libuv
 13. Streams 
 14. WebSocket communication 
@@ -29,6 +31,7 @@
 25. Concurrency & Scaling : load balancing, and how would you implement it in a Node.js app
 26. What are some strategies to optimize the performance of a Node.js application
 27. How can you implement API rate limiting in a Node.js application
+28. internationalization
 https://intellipaat.com/blog/interview-question/node-js-interview-questions/#Advanced_Node_JS_Interview_Questions_6_to_10_Years_Experience
 
 

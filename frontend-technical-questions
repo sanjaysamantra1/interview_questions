@@ -99,6 +99,7 @@ Javascript
 24. Event Delegation
 25. Proxy Object
 26. Debouncing and Throttling
+27. Intersection Observer API and Infinite Scrolling
 
 
 Typescript

@@ -64,6 +64,91 @@ MongoDB
 16. 
 
 
+Core Node.js Concepts
+======================
+-Explain the event-driven, non-blocking I/O model in Node.js. How does it work, and why is it suitable for I/O-heavy applications?
+-What is the purpose of the EventEmitter class in Node.js? How does it work?
+-Explain the role of the process object in Node.js. How can you use it to manage application execution and monitor performance?
+-How does the Node.js event loop differ from the JavaScript event loop in a browser?
+-What is the purpose of require in Node.js, and how does it handle module caching?
+
+Asynchronous Programming and Callbacks
+=======================================
+-What is a callback, and why can it lead to “callback hell”? How do you address this problem in Node.js?
+-Explain the difference between callbacks, promises, and async/await in Node.js.
+-What is the purpose of the util.promisify function in Node.js? When would you use it?
+-How does async_hooks work in Node.js, and how would you use it for tracing asynchronous calls?
+-Explain how the Node.js setImmediate function works compared to process.nextTick.
+
+Modules and Dependency Management
+===================================
+-How do Node.js modules work? Explain the difference between CommonJS and ES6 modules in Node.js.What are circular dependencies in Node.js, and how can they be avoided?
+-How would you structure a large Node.js application? Describe the advantages of your chosen structure.
+-How does Node.js handle package versioning, and what tools do you use to manage dependencies?
+-Explain how you would optimize and minimize the size of a Node.js application.
+
+Server-Side Development and APIs
+===================================
+-How would you handle API versioning in a large Node.js application?
+-Explain the differences between REST and GraphQL. Which would you choose for a Node.js API, and why?
+-What are middlewares in Express? How do they work, and when would you use them?
+-Explain how you would secure a REST API built with Node.js.
+-How do you handle file uploads in a Node.js application? Describe potential security concerns.
+
+Performance Optimization
+========================
+-What are worker threads in Node.js? When would you use them over the cluster module?
+-Explain the concept of load balancing in Node.js. How would you set up load balancing for a Node.js application?
+-What is the role of streams in Node.js? How do streams improve performance in handling large files?
+-How do you use caching in a Node.js application, and what caching strategies would you recommend?
+-Explain how you would identify and fix memory leaks in a Node.js application.
+
+Error Handling and Debugging
+=================
+How does error handling work in Node.js? What is the best way to handle uncaught exceptions?
+What are best practices for handling asynchronous errors in Node.js?
+How do you use Node.js built-in debugging tools to troubleshoot issues?
+What is the purpose of domains in Node.js? Why are they now considered a deprecated solution for error handling?
+How would you implement logging in a Node.js application? What tools would you use, and how would you handle log management?
+
+Security
+==========
+What is Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF), and how would you prevent these attacks in a Node.js application?
+Explain how you would secure sensitive information (like API keys and environment variables) in a Node.js application.
+How do you prevent SQL Injection in a Node.js application?
+Explain how to handle authentication and authorization in a Node.js application. What strategies would you recommend?
+What is rate limiting, and how would you implement it in a Node.js API to prevent abuse?
+Working with Databases
+What are the main differences between using a SQL and NoSQL database in Node.js?
+How do you manage database connections in a Node.js application?
+Explain how connection pooling works in Node.js with databases. Why is it important for performance?
+What are transactions, and how would you handle them in a Node.js application?
+How do you optimize database queries in Node.js?
+
+Testing and Best Practices
+========================
+How do you approach testing in Node.js? Describe the different types of tests you write (unit, integration, etc.).
+What are some popular testing libraries for Node.js? Which do you prefer and why?
+How would you mock dependencies in a Node.js application during testing?
+What is continuous integration, and how does it benefit Node.js development?
+Explain best practices for organizing and structuring test files in a Node.js project.
+
+Advanced Topics
+===============
+Explain how to create and manage child processes in Node.js.
+How does Node.js handle multiple CPU cores, and how would you utilize them in a Node.js application?
+What is the purpose of the cluster module, and how does it work in Node.js?
+How would you use WebSockets in Node.js, and what are some use cases?
+Explain how you would build a microservices architecture using Node.js. What tools and strategies would you use?
+
+New and Emerging Features
+=========================
+What new features in recent versions of Node.js do you find most useful?
+What is HTTP/2, and how does it improve performance in Node.js applications?
+Explain the import.meta syntax in Node.js and how it compares to CommonJS __dirname and __filename.
+What is ES modules support in Node.js, and how does it impact backward compatibility?
+Describe how to implement server-side rendering (SSR) with a framework like Next.js or NestJS.
+
 NestJS
 =======
 https://www.vskills.in/interview-questions/nestjs-interview-questions

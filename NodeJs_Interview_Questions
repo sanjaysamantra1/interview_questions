@@ -57,6 +57,7 @@ MongoDB
 9. difference between findOne() and find()
 10. How do you perform a case-insensitive search in MongoDB
 11. indexing in MongoDB, and why is it important
+    single-field index, a compound index, and a text index?
 12. aggregation pipelines vs. map-reduce in MongoDB
 13. What are the limitations of MongoDB transactions compared to traditional RDBMS transactions
 14. How would you troubleshoot slow write operations in MongoDB

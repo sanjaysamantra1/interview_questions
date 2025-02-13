@@ -59,6 +59,7 @@ Q8. Mention ways to decrease page load time?
      -Compress and optimize content  (Gzip)
      -Remove render-blocking JavaScript (async,defer)
      -use CDN
+     -Lazy Loading
 
 Q9. Describe your approach to writing clean, maintainable code.
      -readability , maintainability , Security

@@ -55,6 +55,7 @@ CSS
     <link rel="stylesheet" media="screen and (min-width: 701px) and (max-width: 900px)" href="example2.css">
 22. How do you organize your CSS code for maintainability and scalability?
     like BEM - Block Element Modifier, OOCSS, or SMACSS , css pre processors
+23. align-items, align-content, and align-self
 
 
 

@@ -1,4 +1,5 @@
 Q1. How would you ensure that websites are accessible to all groups including users with disabilities.
+     - Autofocus
      -Add alt text to images
      -Use headings properly
      -Use ARIA landmarks (Accessible Rich Internet Applications )

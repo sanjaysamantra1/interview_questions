@@ -126,3 +126,9 @@ Q15. Authentication & Authorization
      -Attribute-Based Access Control : Grant access based on user attributes, resource attributes, and environmental conditions.
      -Access Control Lists : Maintain lists specifying which users or roles have access to specific resources.
      -Middleware for Authorization : Implement middleware in your application to check user permissions before granting access to specific routes or resources.
+
+Q16. Things to consider while developing a multilingual website
+     -Language Selector
+     -Use of the <html lang=""> Attribute
+     -Localization (i18n)
+     -Localization Tools & Libraries (React intl , i18n)

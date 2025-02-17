@@ -62,5 +62,9 @@ https://anywhere.epam.com/en/blog/senior-front-end-developer-interview-questions
 https://www.linkedin.com/pulse/100-interview-questions-senior-frontend-engineer-osama-soliman-
 
 
-
+Questions
+=========
+1. You are building a dashboard in React that fetches and displays real-time user data from an API. 
+    How would you manage state efficiently, considering performance and re-renders?
+2. 
 

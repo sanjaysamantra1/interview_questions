@@ -66,7 +66,8 @@ FrontEnd Questions
 ==================
 1. You are building a dashboard in React that fetches and displays real-time user data from an API. 
     How would you manage state efficiently, considering performance and re-renders?
-2. 
+2. A form in your React frontend collects user details and submits them to a Node.js backend. 
+   How would you handle data validation on both frontend and backend to ensure reliability?
 
 
 BackEnd Questions

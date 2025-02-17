@@ -74,3 +74,5 @@ BackEnd Questions
 ==================
 1. You need to design a RESTful API in Node.js to handle user authentication and authorization. 
    What approach and middleware would you use to ensure security and scalability?
+2. You are given a large dataset that needs to be processed and filtered efficiently in Node.js.
+   How would you handle this to optimize performance and prevent blocking the event loop?

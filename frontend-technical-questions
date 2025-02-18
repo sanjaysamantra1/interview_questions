@@ -104,6 +104,10 @@ Javascript
 27. Intersection Observer API and Infinite Scrolling
 28. Promise.all()
 29. broadcast-channel-api
+30. WeakMap and WeakSet (Objects in a WeakMap or WeakSet do not prevent garbage collection 
+      if there are no other references to them)
+31. Memory Leaks in JavaScript (Variables declared without var/let/const,
+          Objects referencing each other,Closures Holding References, Timers & Event Listeners: Not cleared properly)
 
 
 Typescript

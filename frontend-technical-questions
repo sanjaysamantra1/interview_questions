@@ -20,6 +20,8 @@ HTML
 15. SVG & Canvas
 16. ARIA (Accessible Rich Internet Applications) attributes
 17. <label> element
+18. Content Security Policy (CSP) and why is it important
+      default-src 'self' → Allows content only from the same origin
 
 
 

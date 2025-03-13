@@ -130,6 +130,7 @@ Typescript
 13. readonly vs const in TypeScript?  (readonly-class variables , const - normal variables)
 14. tsconfig.json
 15. declaration files (.d.ts)
+16. generics in TypeScript 
 
 
 

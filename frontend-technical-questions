@@ -9,12 +9,12 @@ HTML
 4. data attributes in HTML5
 5. <form method=GET/POST>
 6. HTML layout structure 
-7. datalist
+7. datalist tag, details and summary tag
 8. imagemap
 9. Web Storage
-10. Web Workers
+10. HTML 5 APIs : drag & drop , web workers, 
 11. manifest file in HTML
-12. GeoLocation api
+12. GeoLocation api - getCurrentPosition() and watchPosition()
 13. Web Components
 14. Ensure a website is accessible
 15. SVG & Canvas

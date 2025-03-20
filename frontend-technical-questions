@@ -30,7 +30,7 @@ CSS
 1. display:none vs visibility:hidden
 2. Absolute vs relative position
 3. box-sizing:border-box/content-box
-4. Pseudo calss & pseudo elements
+4. Pseudo class & pseudo elements
 5. box model
 6. reset vs normalize CSS
    reset - remove browser-specific styling , normalize - make the default styles consistent across browsers

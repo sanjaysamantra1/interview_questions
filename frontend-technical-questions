@@ -172,7 +172,8 @@ React
 4. props drilling
 5. useEffect
 6. custom Hook
-7. controlled vs uncontrolled form
+7. controlled vs uncontrolled form , 
+    State management for dynamic fields
 8. React.memo()
 9. useMemo
 10. useCallback

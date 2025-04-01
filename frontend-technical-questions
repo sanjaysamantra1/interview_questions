@@ -28,7 +28,7 @@ HTML
 CSS
 ===
 1. display:none vs visibility:hidden
-2. Absolute vs relative position
+2. Absolute vs relative position (parent:relative,child:absolute)
 3. box-sizing:border-box/content-box
 4. Pseudo class & pseudo elements
 5. box model

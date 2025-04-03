@@ -133,3 +133,16 @@ Q16. Things to consider while developing a multilingual website
      -Use of the <html lang=""> Attribute
      -Localization (i18n)
      -Localization Tools & Libraries (React intl , i18n)
+
+Q17. Performance Optimization tips
+     -Reduce HTTP Requests
+     -Use HTTP-2
+     -Server Side Rendering
+     -Use CDN for static resources
+     -use fonticons insteadof images/image icons
+     -use caching , avoid reloading the same resources
+     -compress files
+     -Image Optimization
+     -reduce the complexity of css selectors
+     -use flexbox
+     

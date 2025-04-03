@@ -180,7 +180,8 @@ React
 11. PureComponent
 12. HigherOrderComponents
 13. Synthetic Event
-14. Portals
+14. Portals : 
+    Portals allow to render components outside the main DOM hierarchy, usually for modals, tooltips, or dropdowns.
 15. Error Boundary
 16. Server Side Rendering
  ReactDOMServer.renderToString(<App />);

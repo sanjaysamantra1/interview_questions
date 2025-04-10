@@ -1,0 +1,36 @@
+1. Architecture & Design
+  Q1. Design a highly available and fault-tolerant architecture in AWS for a multi-tier web application. What services would you use and why?
+  Q2. How would you migrate a large-scale monolithic application to AWS using microservices?
+  Q3. Explain how to implement blue/green deployment in AWS and the services involved.
+
+2. Scalability & Performance
+  Q4. How would you handle scaling for an application with unpredictable traffic patterns?
+  Q5. What are some strategies to reduce latency in a global web application on AWS?
+  Q6. Compare Auto Scaling Groups and AWS Lambda for scaling compute resources.
+
+3. Networking & VPC
+  Q7. Design a secure VPC architecture with public/private subnets, NAT Gateway, and a bastion host. How would you secure it?
+  Q8. How would you set up a hybrid cloud with AWS and an on-prem data center?
+  Q9. Explain the difference between interface endpoints, gateway endpoints, and VPC peering.
+
+4. Security & IAM
+  Q10. How would you enforce least privilege access for a cross-account architecture?
+  Q11. Explain the use of IAM roles vs. resource-based policies. When would you use one over the other?
+  Q12. How do you secure sensitive data in AWS at rest and in transit?
+
+5. Cost Optimization
+  Q13. What strategies can you apply to optimize EC2, S3, and RDS costs in a production environment?
+  Q14. How do you set up a cost budget and alerts for multiple teams using a single AWS account?
+
+6. CI/CD & DevOps
+  Q15. How would you set up a CI/CD pipeline in AWS for a containerized app using EKS or ECS?
+  Q16. Describe a rollback strategy in AWS CodeDeploy for production failures.
+
+7. Disaster Recovery & Backup
+  Q17. What are different disaster recovery strategies in AWS? Explain RTO and RPO in this context.
+  Q18. How do you implement cross-region backup and replication for critical data?
+
+8. Serverless & Event-Driven Design
+  Q19. Design a serverless application with AWS Lambda, DynamoDB, and S3 that processes uploaded files. How do you handle failures?
+  Q20. How would you implement retries and dead-letter queues for AWS Lambda invocations?
+

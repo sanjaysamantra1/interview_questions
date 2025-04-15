@@ -131,6 +131,7 @@ Typescript
 14. tsconfig.json
 15. declaration files (.d.ts)
 16. generics in TypeScript 
+17. any vs unknown
 
 
 

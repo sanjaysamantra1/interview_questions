@@ -112,6 +112,7 @@ Javascript
           Objects referencing each other,Closures Holding References, Timers & Event Listeners: Not cleared properly)
 
 
+
 Typescript
 ===========
 1. pros and cons of typescript
@@ -161,7 +162,7 @@ Angular
 22. lazy & pre loading
 23. NgRX - state management
 25. Localization - app for different locales
-
+26. deferred loading in Angular
 
 
 React

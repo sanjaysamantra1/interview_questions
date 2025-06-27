@@ -1,0 +1,5 @@
+Q1. What is NX Monorepo and how does it support micro-frontend architecture in Angular applications? Can you describe how you would structure multiple Angular apps and libraries using NX?
+Q2. What are the different ways components can communicate in Angular? How would you handle communication between two Angular micro frontends built using NX?
+Q3. A complex Angular application with multiple micro frontends is experiencing performance lags in production. What tools and techniques would you use to debug and optimize it?
+Q4. How would you set up a unit testing strategy in an NX monorepo Angular project using Jest or Mocha? What are the benefits of following Test Driven Development (TDD) in frontend development?
+Q5. You are leading a frontend team working on multiple Angular micro frontends. How would you ensure code quality, team alignment, and smooth CI/CD delivery across modules?
